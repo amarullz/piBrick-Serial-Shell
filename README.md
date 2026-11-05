@@ -4,7 +4,7 @@
 
 piBrick Serial Shell provides a convenient way to access a serial console directly from your web browser. It uses [xterm.js](https://xtermjs.org/) to provide a terminal interface and supports both Web Serial and WebUSB for compatible USB-to-serial devices.
 
-🌐 **Live application:** https://serial.amarullz.com/
+🌐 **Live application:** https://serial.pibrick.net/
 
 ---
 
@@ -53,7 +53,7 @@ Device availability depends on browser support, operating-system permissions, an
 
 Open the application in a supported browser:
 
-**https://serial.amarullz.com/**
+**[https://serial.pibrick.net/](https://serial.pibrick.net/)**
 
 ### 2. 🔌 Connect your device
 
@@ -207,7 +207,7 @@ Browser permission prompts and device access are managed by the browser and oper
 
 ## 🔗 Related Resources
 
-- 🌐 **Serial Shell:** https://serial.amarullz.com/
+- 🌐 **Serial Shell:** https://serial.pibrick.net/
 - 📖 **USB Serial Console Guide:** https://github.com/amarullz/piBrick/wiki/USB-Serial-Console-Guide
 - 🧱 **piBrick Project:** https://github.com/amarullz/piBrick
 
